@@ -26,27 +26,27 @@ public class Cent {
       
       
       
-punkty.add(new Punkt(171.39406,69.48498,'s'));
-punkty.add(new Punkt(103.43978,162.3329,'s'));
-punkty.add(new Punkt(-56.44943,-69.29827,'s'));
-punkty.add(new Punkt(8.946941,163.05267,'s'));
-punkty.add(new Punkt(-126.42041,11.656335,'s'));
-punkty.add(new Punkt(112.04775,55.792885,'s'));
-punkty.add(new Punkt(-110.54896,-92.301605,'s'));
-punkty.add(new Punkt(-122.07462,-63.049244,'s'));
-punkty.add(new Punkt(50.02793,-78.852905,'s'));
-punkty.add(new Punkt(-144.9896,-102.07811,'s'));
-punkty.add(new Punkt(132.33275,3.6434205,'s'));
-punkty.add(new Punkt(3.888258,-184.86417,'s'));
-punkty.add(new Punkt(96.34481,178.96266,'s'));
-punkty.add(new Punkt(-105.34451,-82.28869,'s'));
-punkty.add(new Punkt(-36.805817,80.20109,'s'));
-punkty.add(new Punkt(28.560175,46.042305,'s'));
-punkty.add(new Punkt(138.9394,98.77133,'s'));
+      punkty.add(new Punkt(171.39406,69.48498,'s'));
+      punkty.add(new Punkt(103.43978,162.3329,'s'));
+      punkty.add(new Punkt(-56.44943,-69.29827,'s'));
+      punkty.add(new Punkt(8.946941,163.05267,'s'));
+      punkty.add(new Punkt(-126.42041,11.656335,'s'));
+      punkty.add(new Punkt(112.04775,55.792885,'s'));
+      punkty.add(new Punkt(-110.54896,-92.301605,'s'));
+      punkty.add(new Punkt(-122.07462,-63.049244,'s'));
+      punkty.add(new Punkt(50.02793,-78.852905,'s'));
+      punkty.add(new Punkt(-144.9896,-102.07811,'s'));
+      punkty.add(new Punkt(132.33275,3.6434205,'s'));
+      punkty.add(new Punkt(3.888258,-184.86417,'s'));
+      punkty.add(new Punkt(96.34481,178.96266,'s'));
+      punkty.add(new Punkt(-105.34451,-82.28869,'s'));
+      punkty.add(new Punkt(-36.805817,80.20109,'s'));
+      punkty.add(new Punkt(28.560175,46.042305,'s'));
+      punkty.add(new Punkt(138.9394,98.77133,'s'));
  
  
-centroidy.add(new Centroid(-185.0268,123.22421,'r'));
-centroidy.add(new Centroid(-79.53156,131.56772,'g'));
+      centroidy.add(new Centroid(-185.0268,123.22421,'r'));
+      centroidy.add(new Centroid(-79.53156,131.56772,'g'));
  
 
       
